@@ -1,0 +1,12 @@
+
+/* Detail row container styles - appended inside the row element */
+.detail-row-container {
+  padding: 1rem;
+  background: #f8f9fa;
+  border-top: 2px solid #dee2e6;
+  margin-top: 0.5rem;
+}
+
+.row-expanded {
+  background: #e7f3ff !important;
+}
