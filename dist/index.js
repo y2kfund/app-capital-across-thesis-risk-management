@@ -18170,8 +18170,8 @@ const kC = { class: "capital-across-thesis-view" }, BC = {
       })), {
         title: {
           subtext: y.value,
-          left: "center",
-          top: 10,
+          right: "center",
+          top: 50,
           textStyle: {
             fontSize: 13,
             fontWeight: "normal",
@@ -18347,7 +18347,7 @@ ${S.percent.toFixed(1)}%`
   for (const [i, n] of t)
     e[i] = n;
   return e;
-}, lx = /* @__PURE__ */ ax(nx, [["__scopeId", "data-v-c78f7b84"]]);
+}, lx = /* @__PURE__ */ ax(nx, [["__scopeId", "data-v-ca4a191c"]]);
 export {
   lx as capitalAcrossThesis,
   lx as default

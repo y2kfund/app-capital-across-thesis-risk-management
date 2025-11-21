@@ -194,8 +194,8 @@ const chartOption = computed(() => {
   return {
     title: {
       subtext: chartSubtitle.value,
-      left: 'center',
-      top: 10,
+      right: 'center',
+      top: 50,
       textStyle: {
         fontSize: 13,
         fontWeight: 'normal',
